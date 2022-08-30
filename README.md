@@ -5,6 +5,6 @@
 ## Getting Started
 
 
-![Finished App](https://github.com/Yaronkr/Dog_BMI_Calculator/blob/main/assets/images/app.gif)
+![Finished App](https://github.com/Yaronkr/Dog_BMI_Calculator/blob/main/assets/images/app_video.gif)
 
 
