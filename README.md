@@ -5,6 +5,6 @@
 ## Getting Started
 
 
-![Finished App](https://github.com//healthy_dog_calculator/assets/images/EdDog_app.gif)
+![Finished App](https://github.com/Yaronkr/Dog_BMI_Calculator/blob/main/assets/images/app.gif)
 
 
